@@ -1,9 +1,9 @@
 public class Operaciones{
   public static void main(String args[]){
  
-   int operacion = 2;
+   int operacion = 4;
    int numeroUno = 1;
-   int numeroDos = 2;
+   int numeroDos = 0;
    int resultado= 0;
 
    if(operacion  == 1){
