@@ -1,7 +1,7 @@
 public class Notas {
   public static void main (String args[]){
     int notaMatematicas = 5;
-    int notaBiologia = 8;
+    int notaBiologia = 2;
     int notaQuimica = 7;
     int notaFinal= 0;
 
@@ -9,11 +9,11 @@ public class Notas {
 
     if(notaFinal >= 6)
       {
-         System.out.println("Aprobo, la nota final fue de: " + notaFinal);
+         System.out.println("\n Aprobo, la nota final fue de: " + notaFinal);
       }
     else
       {
-         System.out.println("Usted Reprobó. Su nota final es de:" + notaFinal +"/n");
+         System.out.println(" \n Usted Reprobo. Su nota final es de:" + notaFinal +"\n");
       }
  }
 }
